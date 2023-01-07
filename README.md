@@ -22,4 +22,6 @@ This project deals with the determination of possible locations for vacations ba
 
 # Data Analysis Outputs
 
-## 
+## Latitude vs Max Temperature Plot
+
+<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/LatitudevsMaxTemp.png' width = 80% ></p> 
