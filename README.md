@@ -54,5 +54,36 @@ This project deals with the determination of possible locations for vacations ba
 
 <p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/SouthLatitudevsMaxTempSouth.png' width = 80% ></p>
 
+## Latitude vs Humidity Linear Regression in Northern Hemisphere
+
+<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/NorthLatitudevsHumidityNorth.png' width = 80% ></p>
+
+## Latitude vs Humidity Linear Regression in Southern Hemisphere
+
+<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/SouthLatitudevsHumiditySouth.png' width = 80% ></p>
+
+## Latitude vs Cloudiness Linear Regression in Northern Hemisphere
+
+<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/NorthLatitudevsCloudinessNorth.png' width = 80% ></p>
+
+## Latitude vs Cloudiness Linear Regression in Southern Hemisphere
+
+<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/SouthLatitudevsCloudinessSouth.png' width = 80% ></p>
+
+## Latitude vs Wind Speed Linear Regression in Northern Hemisphere
+
+<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/NorthLatitudevsWindSpeedNorth.png' width = 80% ></p>
+
+## Latitude vs Wind Speed Linear Regression in Southern Hemisphere
+
+<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/SouthLatitudevsWindSpeedSouth.png' width = 80% ></p>
+
+## Heatmap showing humidity of various locations
+
+<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/HeatmapHumidity.png' width = 80% ></p>
+
+## Heatmap showing probable vacation locations based on few parameters
+
+<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/HeatmapVacationLocation.png' width = 80% ></p>
 
 
