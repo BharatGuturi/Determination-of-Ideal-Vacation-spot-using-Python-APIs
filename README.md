@@ -25,3 +25,34 @@ This project deals with the determination of possible locations for vacations ba
 ## Latitude vs Max Temperature Plot
 
 <p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/LatitudevsMaxTemp.png' width = 80% ></p> 
+
+## Latitude vs Min Temperature Plot
+
+<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/LatitudevsMinTemp.png' width = 80% ></p> 
+
+## Latitude vs Temperature Plot
+
+<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/LatitudevsTemp.png' width = 80% ></p>
+
+## Latitude vs Humidity Plot
+
+<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/LatitudevsHumidity.png' width = 80% ></p>
+
+## Latitude vs Cloudiness Plot
+
+<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/LatitudevsCloudiness.png' width = 80% ></p>
+
+## Latitude vs Wind Speed Plot
+
+<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/LatitudevsWindSpeed.png' width = 80% ></p>
+
+## Latitude vs Max Temp Linear Regression in Northern Hemisphere
+
+<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/NorthLatitudevsMaxTempNorth.png' width = 80% ></p>
+
+## Latitude vs Max Temp Linear Regression in Southern Hemisphere
+
+<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/SouthLatitudevsMaxTempSouth.png' width = 80% ></p>
+
+
+
