@@ -1,4 +1,4 @@
-# python-api-challenge
+# Determination-of-Ideal-Vacation-spot-using-Python-APIs
 This project deals with the determination of possible locations for vacations based on the required parameters. Python requests, APIs and JSON traversals have been done to determine the possible locations for vacations around the world.
 
 # Instructions
