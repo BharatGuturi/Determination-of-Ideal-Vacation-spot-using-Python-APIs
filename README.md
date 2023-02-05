@@ -1,5 +1,8 @@
 # Determination-of-Ideal-Vacation-spot-using-Python-APIs
-This project deals with the determination of possible locations for vacations based on the required parameters. Python requests, APIs and JSON traversals have been done to determine the possible locations for vacations around the world.
+This project deals with the determination of possible locations for vacations based on the required parameters. Python requests, APIs and JSON traversals have been done to determine the possible locations for vacations around the world. 
+
+# Summary
+Based on the retrieved data, various plots such as Latitude vs Temperature, Latitude vs Humidity, Latitude vs Cloudiness and Latitude vs Wind Speed have been plotted to analyse for the ideal location of vacation. Ideal temperature and wind speed range is selected to narrow down the search. Based on the obtained city data, nearest hotels are determined.
 
 # Instructions
 
