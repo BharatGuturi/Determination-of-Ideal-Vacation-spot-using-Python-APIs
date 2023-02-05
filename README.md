@@ -7,7 +7,7 @@ Based on the retrieved data, various plots such as Latitude vs Temperature, Lati
 # Instructions
 
 1)  To run the repo, use the following command:
-    git clone https://github.com/BharatGuturi/python-api-challenge.git
+    git clone https://github.com/BharatGuturi/Determination-of-Ideal-Vacation-spot-using-Python-APIs.git
     
 2)  Generate the api keys for OpenWeatherMaps using the url: https://home.openweathermap.org/api_keys. Please ensure that an account is created in https://openweathermap.org/ prior to accessing the api keys.
 
@@ -27,66 +27,66 @@ Based on the retrieved data, various plots such as Latitude vs Temperature, Lati
 
 ## Latitude vs Max Temperature Plot
 
-<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/LatitudevsMaxTemp.png' width = 80% ></p> 
+<p align="center"><img src='https://github.com/BharatGuturi/Determination-of-Ideal-Vacation-spot-using-Python-APIs/blob/main/Output/LatitudevsMaxTemp.png' width = 80% ></p> 
 
 ## Latitude vs Min Temperature Plot
 
-<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/LatitudevsMinTemp.png' width = 80% ></p> 
+<p align="center"><img src='https://github.com/BharatGuturi/Determination-of-Ideal-Vacation-spot-using-Python-APIs/blob/main/Output/LatitudevsMinTemp.png' width = 80% ></p> 
 
 ## Latitude vs Temperature Plot
 
-<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/LatitudevsTemp.png' width = 80% ></p>
+<p align="center"><img src='https://github.com/BharatGuturi/Determination-of-Ideal-Vacation-spot-using-Python-APIs/blob/main/Output/LatitudevsTemp.png' width = 80% ></p>
 
 ## Latitude vs Humidity Plot
 
-<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/LatitudevsHumidity.png' width = 80% ></p>
+<p align="center"><img src='https://github.com/BharatGuturi/Determination-of-Ideal-Vacation-spot-using-Python-APIs/blob/main/Output/LatitudevsHumidity.png' width = 80% ></p>
 
 ## Latitude vs Cloudiness Plot
 
-<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/LatitudevsCloudiness.png' width = 80% ></p>
+<p align="center"><img src='https://github.com/BharatGuturi/Determination-of-Ideal-Vacation-spot-using-Python-APIs/blob/main/Output/LatitudevsCloudiness.png' width = 80% ></p>
 
 ## Latitude vs Wind Speed Plot
 
-<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/LatitudevsWindSpeed.png' width = 80% ></p>
+<p align="center"><img src='https://github.com/BharatGuturi/Determination-of-Ideal-Vacation-spot-using-Python-APIs/blob/main/Output/LatitudevsWindSpeed.png' width = 80% ></p>
 
 ## Latitude vs Max Temp Linear Regression in Northern Hemisphere
 
-<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/NorthLatitudevsMaxTempNorth.png' width = 80% ></p>
+<p align="center"><img src='https://github.com/BharatGuturi/Determination-of-Ideal-Vacation-spot-using-Python-APIs/blob/main/Output/NorthLatitudevsMaxTempNorth.png' width = 80% ></p>
 
 ## Latitude vs Max Temp Linear Regression in Southern Hemisphere
 
-<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/SouthLatitudevsMaxTempSouth.png' width = 80% ></p>
+<p align="center"><img src='https://github.com/BharatGuturi/Determination-of-Ideal-Vacation-spot-using-Python-APIs/blob/main/Output/SouthLatitudevsMaxTempSouth.png' width = 80% ></p>
 
 ## Latitude vs Humidity Linear Regression in Northern Hemisphere
 
-<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/NorthLatitudevsHumidityNorth.png' width = 80% ></p>
+<p align="center"><img src='https://github.com/BharatGuturi/Determination-of-Ideal-Vacation-spot-using-Python-APIs/blob/main/Output/NorthLatitudevsHumidityNorth.png' width = 80% ></p>
 
 ## Latitude vs Humidity Linear Regression in Southern Hemisphere
 
-<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/SouthLatitudevsHumiditySouth.png' width = 80% ></p>
+<p align="center"><img src='https://github.com/BharatGuturi/Determination-of-Ideal-Vacation-spot-using-Python-APIs/blob/main/Output/SouthLatitudevsHumiditySouth.png' width = 80% ></p>
 
 ## Latitude vs Cloudiness Linear Regression in Northern Hemisphere
 
-<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/NorthLatitudevsCloudinessNorth.png' width = 80% ></p>
+<p align="center"><img src='https://github.com/BharatGuturi/Determination-of-Ideal-Vacation-spot-using-Python-APIs/blob/main/Output/NorthLatitudevsCloudinessNorth.png' width = 80% ></p>
 
 ## Latitude vs Cloudiness Linear Regression in Southern Hemisphere
 
-<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/SouthLatitudevsCloudinessSouth.png' width = 80% ></p>
+<p align="center"><img src='https://github.com/BharatGuturi/Determination-of-Ideal-Vacation-spot-using-Python-APIs/blob/main/Output/SouthLatitudevsCloudinessSouth.png' width = 80% ></p>
 
 ## Latitude vs Wind Speed Linear Regression in Northern Hemisphere
 
-<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/NorthLatitudevsWindSpeedNorth.png' width = 80% ></p>
+<p align="center"><img src='https://github.com/BharatGuturi/Determination-of-Ideal-Vacation-spot-using-Python-APIs/blob/main/Output/NorthLatitudevsWindSpeedNorth.png' width = 80% ></p>
 
 ## Latitude vs Wind Speed Linear Regression in Southern Hemisphere
 
-<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/SouthLatitudevsWindSpeedSouth.png' width = 80% ></p>
+<p align="center"><img src='https://github.com/BharatGuturi/Determination-of-Ideal-Vacation-spot-using-Python-APIs/blob/main/Output/SouthLatitudevsWindSpeedSouth.png' width = 80% ></p>
 
 ## Heatmap showing humidity of various locations
 
-<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/HeatmapHumidity.png' width = 80% ></p>
+<p align="center"><img src='https://github.com/BharatGuturi/Determination-of-Ideal-Vacation-spot-using-Python-APIs/blob/main/Output/HeatmapHumidity.png' width = 80% ></p>
 
 ## Heatmap showing probable vacation locations based on few parameters
 
-<p align="center"><img src='https://github.com/BharatGuturi/python-api-challenge/blob/main/Output/HeatmapVacationLocation.png' width = 80% ></p>
+<p align="center"><img src='https://github.com/BharatGuturi/Determination-of-Ideal-Vacation-spot-using-Python-APIs/blob/main/Output/HeatmapVacationLocation.png' width = 80% ></p>
 
 
